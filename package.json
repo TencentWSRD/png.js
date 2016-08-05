@@ -4,9 +4,9 @@
   },
   "name": "isomorphic-png.js",
   "description": "A PNG decoder fully written in JavaScript",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "repository": {
-    "url": "git://github.com/xiaoyuze88/png.js.git"
+    "url": "git://github.com/TencentWSRD/png.js.git"
   },
   "scripts": {
   },
@@ -17,9 +17,9 @@
   },
   "devDependencies": {},
   "bugs": {
-    "url": "https://github.com/xiaoyuze88/png.js/issues"
+    "url": "https://github.com/TencentWSRD/png.js/issues"
   },
-  "homepage": "https://github.com/xiaoyuze88/png.js",
+  "homepage": "https://github.com/TencentWSRD/png.js",
   "maintainers": [
     {
       "name": "arian",
