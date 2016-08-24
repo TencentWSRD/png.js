@@ -2,7 +2,7 @@
 "use strict";
 
 var zlib = require('zlib');
-var PNG = require('./PNG');
+var PNG = require('./png');
 
 var inflate = function(data, isCgBI, callback) {
   return isCgBI ? zlib.inflateRaw(new Buffer(data), callback) : zlib.inflate(new Buffer(data), callback);
